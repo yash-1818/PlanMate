@@ -370,7 +370,7 @@ export default function TasksIndex({ tasks, lists, filters, flash }: Props) {
                 {/* Pagination */}
                 <div className='flex items-center justify-between px-2'>
                     <div className='text-sm text-muted-foreground'>
-                        Menampilkan {tasks.from} ke {tasks.to} dari {tasks.total} Hasil
+                        Menampilkan {tasks.from} data {tasks.to} dari {tasks.total} Hasil
                     </div>
                     <div className='flex items-center space-x-2'>
                         <Button variant='outline'

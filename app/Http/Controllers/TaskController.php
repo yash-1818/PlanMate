@@ -50,7 +50,7 @@ class TaskController extends Controller
                 'success' => session('success'),
                 'error' => session('error')
             ]
-            ]);
+        ]);
     }
 
     /**
