@@ -41,7 +41,7 @@ export default function Dashboard({ stats = {
                         <p className='text-muted-foreground mt-1'>Selamat datang kembali, berikut tinjauan Anda</p>
                     </div>
 
-                    <div className='flex gap-2'>
+                <div className='flex gap-2'>
                         {/* <Link href='/lists'>
                             <Button className='bg-primary hover:bg-primary/90 text-white shadow-lg'>
                                 <List className='h-4 w-4 mr-2'/>

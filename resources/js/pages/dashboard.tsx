@@ -111,7 +111,7 @@ export default function Dashboard({
                             <List className='h-4 w-4 text-blue-500'/>
                         </CardHeader>
                         <CardContent>
-                            <div className='text-2xl font-bold text-blue-500'>{stats.totalList}</div>
+                            <div className='text-3xl  font-bold text-blue-500'>{stats.totalList}</div>
                             <p className='text-sm text-muted-foreground'>
                                 Seluruh data List
                             </p>
@@ -126,7 +126,7 @@ export default function Dashboard({
                             <CheckCircle className='h-4 w-4 text-green-500'/>
                         </CardHeader>
                         <CardContent>
-                            <div className='text-2xl font-bold text-green-500'>{stats.totalTask}</div>
+                            <div className='text-3xl  font-bold text-green-500'>{stats.totalTask}</div>
                             <p className='text-sm text-muted-foreground'>
                                 Seluruh data Tugas
                             </p>
@@ -141,7 +141,7 @@ export default function Dashboard({
                             <Clock className=' h-4 w-4 text-yellow-500'/>
                         </CardHeader>
                         <CardContent>
-                            <div className='text-2xl font-bold text-yellow-500 '>
+                            <div className='text-3xl  font-bold text-yellow-500 '>
                                 {stats.tugasPending}
                             </div>
                             <p className='text-sm text-muted-foreground'>
@@ -158,7 +158,7 @@ export default function Dashboard({
                             <CheckCircle className='h-4 w-4 text-purple-500'/>
                         </CardHeader>
                         <CardContent>
-                            <div className='text-2xl font-bold text-purple-500'>{stats.tugasSelesai}</div>
+                            <div className='text-3xl  font-bold text-purple-500'>{stats.tugasSelesai}</div>
                             <p className='text-sm text-muted-foreground'>
                                 Tugas terselesaikan
                             </p>
@@ -173,7 +173,7 @@ export default function Dashboard({
                             <Users className='h-4 w-4 text-orange-500'/>
                         </CardHeader>
                         <CardContent>
-                            <div className='text-2xl font-bold text-orange-500'>{stats.totalUser}</div>
+                            <div className='text-3xl  font-bold text-orange-500'>{stats.totalUser}</div>
                             <p className='text-sm text-muted-foreground'>
                                 Pengguna terdaftar
                             </p>
@@ -187,7 +187,7 @@ export default function Dashboard({
                             <Users className='h-4 w-4 text-cyan-500'/>
                         </CardHeader>
                         <CardContent>
-                            <div className='text-2xl font-bold text-cyan-500'>{stats.totalRole}</div>
+                            <div className='text-3xl  font-bold text-cyan-500'>{stats.totalRole}</div>
                             <p className='text-sm text-muted-foreground'>
                                 Jumlah Role
                             </p>
