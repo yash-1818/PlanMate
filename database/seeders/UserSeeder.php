@@ -30,7 +30,7 @@ class UserSeeder extends Seeder
                     [
                         'id' => 2,
                         'id_role' => 2,
-                        'name' => 'siswa',
+                        'name' => 'user',
                         'email' => 'siswa@gmail.com',
                         'password' => Hash::make('1234567890'),
                         'created_at' => now(),
